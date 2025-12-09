@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Event Horizon Visualizer",
+  "description": "An interactive simulation of the Space-Time 'Flip' at a Black Hole's Event Horizon, visualizing the transition where space becomes time-like. Features interactive controls and AI-powered physics explanations.",
+  "requestFramePermissions": []
+}
